@@ -20,7 +20,7 @@ To set up a development environment for this extension:
 
 ### Credits
 ------------
-- Chrome Extension APIs
-- Web Speech API
+- [Chrome Extension APIs](https://developer.chrome.com/docs/extensions/reference/)
+- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
 This extension is licensed under the MIT License. See LICENSE for more information.

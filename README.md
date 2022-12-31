@@ -18,7 +18,7 @@ Development
 To set up a development environment for this extension:
 - Load the extension in Chrome as described in the __Installation__ section above.
 
-### Credits:
+### Credits
 ------------
 - Chrome Extension APIs
 - Web Speech API

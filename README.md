@@ -10,7 +10,7 @@
 
 ### Usage
 ---------
-Select some text on a webpage.
+Select a word on a webpage.
 Right-click the selected text and choose the __Speak__ option from the context menu.
 The selected text will be spoken aloud using TTS.
 Development

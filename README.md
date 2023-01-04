@@ -3,7 +3,6 @@
 
 ### Installation
 -----------------
-- Download the extension from the releases page.
 - In Chrome, go to the extensions page (chrome://extensions).
 - Enable developer mode by clicking the toggle switch in the top right corner.
 - Click the "Load unpacked" button and select the downloaded extension folder.
